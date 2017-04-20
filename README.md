@@ -11,4 +11,4 @@
 # video settings
 
 - [imgur](https://i.imgur.com/P9s98nC.jpg)
-- 1024*768 black bars
+- 1280x960 stretched
