@@ -4,7 +4,7 @@
 
 # launch options
 
--console -novid -high -threads 4 -freq 144 -refresh 144 -tickrate 128 -nojoy -nod3d9ex -fullscreen +exec autoexec.cfg
+-no-browser -novid -nojoy -console +fps_max 300 -freq 144 -tickrate 128 +exec autoexec.cfg
 
 ---
 
